@@ -114,7 +114,7 @@
 
 **DESIGN AND CREATIVITY**
     |- #general-design
-    |- #illustration
+    |- #illustrations
     |- #misc-design
     |- #moodboard
     |- #motion-design
