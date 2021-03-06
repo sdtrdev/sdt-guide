@@ -1,0 +1,175 @@
+**WELCOME**
+    |- #readme
+    |- #sdt-guide
+    |- #set-name
+    |- #sign-in
+    |- #choose-category
+    |- #contact
+
+**GENERAL**
+    |- #general
+    |- #announcements
+    |- #about-you
+    |- #out-of-topic
+    |- #link-sharing
+    |- #code-review
+    |- #project-intro
+    |- #business
+    |- #freelance
+    |- #featured-servers
+    |- #meeting
+    |- #social-media
+
+**SDT SOCIAL**
+    |- #cryptocurrencies
+    |- #github-feed
+    |- #music-archive
+    |- #sdt-medium
+    |- #sdt-stories
+
+**SDT LAB**
+    |- #bot-channel
+    |- #niko-channel
+    |- #lab-chat
+
+**SDT GAME LAB**
+    |- #game-chat
+
+**SDT ACTIVITY**
+    |- #activity-plan-board
+    |- #sdt-text-line
+    |- #giveaway
+
+**MEMBER PROJECTS**
+    |- #00_source-pocket
+    |- #01_pnmlinux
+    |- #02_synator
+    |- #03_kubepwd
+    |- #04_beginner-git
+    |- #05_af-downloader
+    |- #06_docker-notes
+    |- #07_webos
+    |- #08_akilli-dijital-avukatim
+    |- #09_invoice-printer
+    |- #10_node-ffont
+    |- #11_storken
+
+**PROGRAMMING LANGUAGES**
+    |- #computer-science
+    |- #assembly
+    |- #c
+    |- #cplusplus
+    |- #csharp
+    |- #dart
+    |- #go
+    |- #java
+    |- #kotlin
+    |- #lua
+    |- #matlab
+    |- #python
+    |- #r
+    |- #ruby
+    |- #rust
+    |- #swift
+    |- #other
+
+**WEB DEVELOPMENT**
+    |- #asp-net-mvc
+    |- #asp-net-webform
+    |- #angularjs
+    |- #css
+    |- #django
+    |- #flask
+    |- #hosting-and-servers
+    |- #html
+    |- #java-spring
+    |- #javascript
+    |- #jquery
+    |- #laravel
+    |- #nodejs
+    |- #net-core
+    |- #php
+    |- #reactjs
+    |- #ruby-on-rails
+    |- #svelte
+    |- #typescript
+    |- #vuejs
+    |- #wordpress
+    |- #other
+
+**DEVELOPMENT TOOLS**
+    |- #android-studio
+    |- #aws
+    |- #azure
+    |- #docker
+    |- #git
+    |- #visual-studio
+    |- #visual-studio-code
+    |- #other
+
+**OPERATING SYSTEMS**
+    |- #gnu-linux
+    |- #macos
+    |- #windows
+
+**DESIGN AND CREATIVITY**
+    |- #general-design
+    |- #illustration
+    |- #misc-design
+    |- #moodboard
+    |- #motion-design
+    |- #photo-and-video
+    |- #sound-design
+    |- #ui-ux-design
+    |- #other
+
+**MOBILE DEVELOPMENT**
+    |- #android
+    |- #flutter
+    |- #ios
+    |- #reactnative
+    |- #xamarin
+    |- #other
+
+**EMBEDDED SYSTEMS**
+    |- #arm
+    |- #arduino
+    |- #raspberry-pi
+    |- #other
+
+**DATABASES**
+    |- #mssql
+    |- #mysql
+    |- #mongodb
+    |- #postgresdb
+    |- #sql-tsql-plsql
+    |- #other
+
+**DATA SCIENCE**
+    |- #big-data
+    |- #statistical-learning
+    |- #other
+
+**ARTIFICIAL INTELLIGENCE**
+    |- #artificial-intelligence
+    |- #computer-vision
+    |- #deep-learning
+    |- #machine-learning
+    |- #resources
+    |- #other
+
+**GAME DEVELOPMENT**
+    |- #unrealengine
+    |- #unity
+    |- #other
+
+**NETWORK PROGRAMMING**
+    |- #network
+    |- #ipv4-ipv6
+    |- #tcpip
+
+**ARCHIVE**
+    |- #sdt-2021
+    |- #sdt-awards
+    |- #sdt-wish-tree
+    |- #santa-chat
