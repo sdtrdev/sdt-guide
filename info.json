@@ -1,10 +1,11 @@
 {
   "moderation": [
-    { "name": "Damla Köksal", "type": "owner" }
+    { "name": "Damla Köksal", "type": "owner" },
     { "name": "Doğancan Koç", "type": "owner" },
     { "name": "Ömer Ayyıldız", "type": "owner" },
     { "name": "Abdullah Şahin", "type": "mod" },
     { "name": "Akif Feyzioğlu", "type": "mod" },
+    { "name": "Kaan Karakaya", "type": "mod" },
     { "name": "Ahmet İbrahim Aksoy", "type": "mod" },
     { "name": "Malik Masis", "type": "mod" },
     { "name": "Önder Bakırtaş", "type": "mod" }
