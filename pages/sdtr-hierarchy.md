@@ -1,16 +1,18 @@
-# **SDT Rol Hiyerarşisi** 
+# **SDTR Rol Hiyerarşisi** 
 
-**@Owner:** SDT topluluğunun kurucusu olan Doğancan Koç'a aittir.
+**@Owner:** SDTR topluluğunun kurucusu olan Doğancan Koç'a aittir.
 
 **@🔑 Power Key:** Sunucu bakımı için görevlendirilen moderatörün yetkilerini yükseltir.
 
 **@🛡️ Moderator:** Sunucu düzenini sağlar. Üyeleri atma, yasaklama ve susturma yetkilerine sahiptir. Tüm kanalları ortak karar sonucu düzenleyebilir. Sunucunun güvenliğinden sorumludur.
 
+**@💪 Community Volunteer:** Topluluğumuza uzun süre hizmet etmiş, moderatör adaylarına verilir. Bu rol moderatörler tarafından atanır.
+
 **@👥 Social Media Officials:** Topluluğun sosyal medya işleri ile ilgilenen üyelere verilir.
 
 **@✍️ BTK Officials:** Bilişim Teknolojileri Kurumu'nda çalışan özel üyelere verilir.
 
-**@👑 SDT Special Member:** Özel davet ile aramıza katılan Udemy eğitmenlerine, medium yazarlarına, YouTube ve Twitter fenomenlerine, içerik üreticilerine ve akademik yetkinliği olan hocalarımıza verilmektedir.
+**@👑 SDTR Special Member:** Özel davet ile aramıza katılan Udemy eğitmenlerine, medium yazarlarına, YouTube ve Twitter fenomenlerine, içerik üreticilerine ve akademik yetkinliği olan hocalarımıza verilmektedir.
 
 **@💎 Server Booster:** Sunucuya takviye yaparak ek özelliklerin kilidini açan üyelere verilir. Takviye bitene kadar hiçbir şekilde rol üyeden alınamaz.
 

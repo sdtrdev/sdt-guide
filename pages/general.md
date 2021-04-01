@@ -26,4 +26,4 @@ Kaydını yaptıktan sonra karşına birçok kanal çıkacak. Her kanal bir ama�
 
 **#featured-servers:** Üyelerin hoşuna gidebilecek harika sunucular ve topluluklar burada sergilenir. Sunucunu veya topluluğunu burada sergilememizi istiyorsan lütfen bu konuda ısrarcı olma. Bu kararı sadece moderatörler ve sunucu yöneticileri verir.
 
-**#meeting:** SDT ekibi bu kanalda üyelerle beraber buluşmalar düzenler. Ve yine bu kanalda yer ve zaman planlanır. Kendi şehrinde kendi buluşmanı düzenleyebilirsin fakat buluşmada SDT ekibinden biri bulunmuyor ise buluşmanın sorumluluğu tamamen sana aittir.
+**#meeting:** SDTR ekibi bu kanalda üyelerle beraber buluşmalar düzenler. Ve yine bu kanalda yer ve zaman planlanır. Kendi şehrinde kendi buluşmanı düzenleyebilirsin fakat buluşmada SDTR ekibinden biri bulunmuyor ise buluşmanın sorumluluğu tamamen sana aittir.

@@ -1,6 +1,6 @@
-![sdt](assets/img/sdt.png)
+![sdtr](assets/img/sdtr.png)
 
-# SDT TOPLULUK REHBERİ
+# SDTR TOPLULUK REHBERİ
 
 Merhaba Dostum,
 
@@ -13,13 +13,13 @@ Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü 
 ## 📁 Kategoriler
 - [Sunucuya Kayıt](pages/register.md)
 - [General (Genel)](pages/general.md)
-- [SDT ACTIVITY (Etkinlik Kategorisi)](pages/sdt-activity.md)
-- [SDT SOCIAL (Sosyal Kategorisi)](pages/sdt-social.md)
-- [SDT LAB (Sesli Sohbet Odaları)](pages/sdt-lab.md)
+- [SDTR ACTIVITY (Etkinlik Kategorisi)](pages/sdtr-activity.md)
+- [SDTR SOCIAL (Sosyal Kategorisi)](pages/sdtr-social.md)
+- [SDTR LAB (Sesli Sohbet Odaları)](pages/sdtr-lab.md)
 - [MEMBER PROJECTS (Üyelerimizin Projeleri)](pages/member-projects.md)
 
 ## 🤔 Daha Fazla
-- [Hiyerarşi](pages/sdt-hierarchy.md)
+- [Hiyerarşi](pages/sdtr-hierarchy.md)
 - [Moderasyon](pages/moderation.md)
 - [Doğru Soru](pages/right-question.md)
 - [Sıkça Sorulan Sorular](pages/sss.md)
@@ -45,7 +45,7 @@ Moderator - Önder Bakırtaş
 
 ---
 
-## 👑 **SDT SPECIAL MEMBERS** 👑
+## 👑 **SDTR SPECIAL MEMBERS** 👑
 
 👨‍💻 **Special Programmers**
 ```
@@ -60,7 +60,7 @@ Gökhan Kandemir
 Muhammed Hilmi Koca
 Eser Ozvataf
 Tarık Güney
-Ömer Faruk Uçar | Lezzetli Robot Tarifleri
+Ömer Faruk Uçar
 Bora Kaşmer
 Dr. Uzay Çetin
 Ayhan Emre Korucu

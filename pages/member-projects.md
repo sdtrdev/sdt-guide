@@ -8,5 +8,5 @@ Sen de bu kanalda projeni sergilemek, diğer üyelerden geri dönüş almak ve s
 
 `GitHub Webhook` sayesinde repondaki hareketleri kanalına anlık olarak da iletebilirsin.
 
-Projenin büyümesi halinde dilersen projeni **SDTRDEV** adı altında topluluğumuzun sayfasında da sergileyebilirsin.
+Projenin büyümesi halinde dilersen projeni **SDTR** adı altında topluluğumuzun sayfasında da sergileyebilirsin.
 

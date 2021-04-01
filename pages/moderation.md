@@ -9,7 +9,7 @@ Bilirsin, kötü niyetli insanlar sunucuları yıkmaya ve trollemeye çalışır
 
 Özel rollere sahip üyeler de her zaman denetim altındadır. Tüm üyeler sunucuda bulunduğu süre zarfında detaylı bir şekilde araştırılır. Kardeş sunuculardan gelen ihbarlar incelenir ve duruma göre ban işlemi gerçekleştirilir. 
 
-Moderasyon sistemimize önem verdiğimizden ötürü SDT ekibine moderatör alımı yapılmamaktadır. 1 yıldan uzun süre sunucuya hizmet etmiş ve 8000 mesaj barajını geçen üyeler Owner tarafından incelemeye alınır. Uygun görülen üye moderatör olarak atanabilir. 
+Moderasyon sistemimize önem verdiğimizden ötürü SDTR ekibine moderatör alımı yapılmamaktadır. 1 yıldan uzun süre sunucuya hizmet etmiş ve 8000 mesaj barajını geçen üyeler Owner tarafından incelemeye alınır. Uygun görülen üye moderatör olarak atanabilir. 
 
 Rehberimizin sonuna geldik dostum. Aklına takılan soruları moderatörlere veya üyelere sormaktan çekinme. 
-Artık sen de SDT'nin bir parçası oldun. Hızla gelişen ve büyüyen bu uzay gemisinde sıkı tutun. 😉
+Artık sen de SDTR'nin bir parçası oldun. Hızla gelişen ve büyüyen bu uzay gemisinde sıkı tutun. 😉

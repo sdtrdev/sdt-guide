@@ -1,6 +1,6 @@
 **WELCOME**
     |- #readme
-    |- #sdt-guide
+    |- #sdtr-guide
     |- #set-name
     |- #sign-in
     |- #choose-category
@@ -20,24 +20,24 @@
     |- #meeting
     |- #social-media
 
-**SDT SOCIAL**
+**SDTR SOCIAL**
     |- #cryptocurrencies
     |- #github-feed
     |- #music-archive
-    |- #sdt-medium
-    |- #sdt-stories
+    |- #sdtr-medium
+    |- #sdtr-stories
 
-**SDT LAB**
+**SDTR LAB**
     |- #bot-channel
     |- #niko-channel
     |- #lab-chat
 
-**SDT GAME LAB**
+**SDTR GAME LAB**
     |- #game-chat
 
-**SDT ACTIVITY**
+**SDTR ACTIVITY**
     |- #activity-plan-board
-    |- #sdt-text-line
+    |- #sdtr-text-line
     |- #giveaway
 
 **MEMBER PROJECTS**
@@ -53,6 +53,7 @@
     |- #09_invoice-printer
     |- #10_node-ffont
     |- #11_storken
+    |- #12_midi-parser
 
 **PROGRAMMING LANGUAGES**
     |- #computer-science

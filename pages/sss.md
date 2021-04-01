@@ -14,7 +14,6 @@ Mor renkte üyeler var ve hareketli emojiler atabiliyorlar. Ben de yapabilir miy
 ### **Cevap:** 
 Discord kendi içerisinde bir nevi abonelik sistemi bulundurmaktadır. Bu abonelik sayesinde hareketli emojiler gönderebilir ve profiline gif koyabilirsin. Aynı zamanda desteklemek istediğin sunucuya "Sunucu takviyesi yap" diyerek özel yetkilere sahip olabilirsin. 
 
-
 ---
 
 ## **Soru 3:**
@@ -58,7 +57,7 @@ Herhangi bir LAB'a katıldıktan sonra aşağıda çıkan "Ekran" butonuna tıkl
 ## **Soru 7:**
 LAB'lara katılmak için izin almam gerekiyor mu?
 
-## **Cevap:**
+### **Cevap:**
 Sunucuda bulunan LAB'lar herkese açıktır. İstediğin yayına veya sohbete katılabilirsin. Katıldığın LAB'da yayın yapan kişi odadan çıkmanı isteyebilir. Özel bir proje geliştiren üyelere saygılı davranman daha doğru olacaktır.
 
 ---
@@ -66,5 +65,5 @@ Sunucuda bulunan LAB'lar herkese açıktır. İstediğin yayına veya sohbete ka
 ## **Soru 8:**
 Sohbete dahil olmak istiyorum ama çok fazla kişi var ve çekiniyorum. Ne yapabilirim?
 
-## **Cevap:**
-Muhabbete dahil olmaktan çekinmemeni öneririz. Üyelerimiz yeni gelen üyelerle tanışmayı çok sever. Merhaba diyerek SDT ailenin parçası olabilirsin :)
+### **Cevap:**
+Muhabbete dahil olmaktan çekinmemeni öneririz. Üyelerimiz yeni gelen üyelerle tanışmayı çok sever. Merhaba diyerek SDTR ailenin parçası olabilirsin :)
