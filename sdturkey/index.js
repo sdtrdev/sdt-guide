@@ -15,7 +15,7 @@ try {
   console.log("Unknow option");
 }
 
-fetch("https://raw.githubusercontent.com/bufgix/sdt-guide/master/info.json")
+fetch("https://github.com/sdtrdev/sdtr-guide/blob/master/info.json")
   .then((data) => data.json())
   .then((data) => {
     if (args["--list-crew"]) {
