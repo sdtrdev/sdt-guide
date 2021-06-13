@@ -36,7 +36,6 @@ Owner - Ömer Ayyıldız
 Moderator - Abdullah Şahin
 Moderator - Ahmet İbrahim Aksoy
 Moderator - Akif Feyzioğlu
-Moderator - Kaan Karakaya 
 Moderator - Malik Masis
 Moderator - Önder Bakırtaş
 
