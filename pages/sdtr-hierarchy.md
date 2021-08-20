@@ -1,6 +1,6 @@
 # **SDTR Rol Hiyerarşisi** 
 
-**@Owner:** SDTR topluluğunun kurucusu olan Doğancan Koç'a aittir.
+**@Owner:** Sunucunun kanalları ve rolleri üzerinde tam yetki sağlamaktadır. Genel düzenden sorumlu moderatörlere bu rol **Doğancan Koç** tarafından verilir fakat moderatörlerle eşit üstünlüktedir.
 
 **@🔑 Power Key:** Sunucu bakımı için görevlendirilen moderatörün yetkilerini yükseltir.
 
